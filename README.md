@@ -1,44 +1,28 @@
-# Hi there, I'm Sakshi Agarwal 👋
+<div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+<!-- 3D DYNAMIC HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Sakshi%20Agarwal&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descSize=20&descAlignY=62&descAlign=50&animation=twinkling" width="100%"/>
 
-I'm a passionate Computer Science student from Jaipur, India, with a focus on **Full-Stack Development and AI & Machine Learning**. 
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/Sakshi-Ag111">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Building+impactful+software+%E2%9C%A8;Full-Stack+%2B+AI+%26+ML+Explorer+%F0%9F%A4%96;Turning+coffee+into+scalable+code+%E2%98%95;Constantly+learning+and+growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-After navigating a period of intense academic challenges and hackathons, my focus is now on disciplined, consistent growth. I am channeling my energy into building a strong project portfolio and preparing for a career that solves real-world problems.
+<p align="center">
+  <a href="mailto:sakshiprachi765@gmail.com"><img src="https://img.shields.io/badge/Email-sakshiprachi765@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Sakshi-Ag111"><img src="https://img.shields.io/badge/GitHub-Sakshi--Ag111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
----
-
-### 🎯 My Main Goals for 2025
-
-* Build and deploy at least 3 high-quality projects.
-* Contribute to an open-source project.
-* Secure a challenging and rewarding role as a Software Engineer.
-* Continuously learn and master new technologies.
-
----
-
-### 💻 My Tech Stack
-
-Here are a few technologies I've been working with recently:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
 ---
 
-### 🤝 Connect with Me
+### 🌐 About Me
 
-You can find me on:
-
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-agarwal-447b56293/)
-
----
-
-### 📊 My GitHub Stats
-
-![Sakshi's Github Stats](https://github-readme-stats.vercel.app/api?username=Sakshi-Ag111&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Ag111&layout=compact&theme=radical)
+```yaml
+name: Sakshi Agarwal
+location: Jaipur, Rajasthan, India 🇮🇳
+passion: Full-Stack Engineering, AI/ML, Scalable Architecture
+mindset: "Disciplined, consistent growth & solving real-world challenges"
+current_focus: Building modern web applications & open-source contributions
