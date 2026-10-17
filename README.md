@@ -1,80 +1,150 @@
-<div align="center">
+ <div align="center">
 
-# Sakshi Agarwal
-**Software Engineer | Full-Stack**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090B16,50:33205B,100:9B72CF&text=Sakshi%20Agarwal&fontSize=48&fontColor=F4E9FF&fontAlignY=48&animation=fadeIn" width="100%" alt="Sakshi Agarwal header"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:sakshiprachi765@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=B995FF&center=true&vCenter=true&width=650&lines=Final+Year+Computer+Science+Student;Aspiring+Software+Engineer;Web+Development+Enthusiast;Learning+DSA+One+Problem+at+a+Time" alt="Typing animation"/>
+
+<a href="https://github.com/Sakshi-Ag111"><img src="https://img.shields.io/badge/GitHub-171923?style=for-the-badge&logo=github&logoColor=C7A4FF" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-171923?style=for-the-badge&logo=linkedin&logoColor=79B8FF" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-171923?style=for-the-badge&logo=gmail&logoColor=FF8EAD" alt="Email"/></a>
 
 </div>
 
 ---
 
-### 💼 What I'm Doing & Current Focus
+## About Me
 
-- 🔭 **Current Work**: Architecting and building scalable full-stack applications with modular microservices and modern APIs.
-- 🧠 **Active Research & Experimentation**: Deep diving into Machine Learning workflows, NLP pipelines, and backend optimization.
-- 🎯 **Career Objective**: Preparing for impactful Software Engineering roles solving distributed systems and product engineering challenges.
-- 💬 **Collaborating On**: Open-source web platforms, developer tooling, and AI-assisted utilities.
+I'm a final-year Computer Science Engineering student passionate about software development, problem-solving, and building practical applications.
 
----
-
-### 🛠️ Technical Stack & Tools
-
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-
-#### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-#### **Backend & APIs**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=google-cloud&logoColor=white)
-
-#### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-#### **Developer Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+- Currently strengthening my Data Structures and Algorithms fundamentals.
+- Exploring full-stack development with React.js and the MERN stack.
+- Interested in Artificial Intelligence and Machine Learning.
+- Focused on learning through practice and building useful applications.
 
 ---
 
-### 📈 GitHub Insights
-
+## Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-Ag111&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Ag111&theme=github_dark&hide_border=true&background=00000000" width="48%" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Ag111&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css&theme=dark" alt="Programming languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend technologies"/>
+
+**Backend and Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and databases"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer tools"/>
+
+</div>
+
+---
+
+## Featured Products
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### TriApt
+
+**Aptitude & Placement Preparation**
+
+A student-focused platform concept designed to support aptitude practice and placement preparation.
+
+`React.js` `JavaScript` `Tailwind CSS`
+
+[View Repository](https://github.com/Sakshi-Ag111?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### CampusRide
+
+**College Ride Matching System**
+
+A concept for matching students travelling similar routes, suggesting pickup points, splitting fares, and linking to ride-booking services.
+
+`Route Matching` `Student Mobility`
+
+[View Repository](https://github.com/Sakshi-Ag111?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Jaipur Green Corridor
+
+**Emergency Vehicle Route Planning**
+
+Explores road-network data, simulated GPS tracking, and traffic-light configurations for emergency vehicle movement.
+
+`Python` `OpenStreetMap` `GeoPandas`
+
+[View Repository](https://github.com/Sakshi-Ag111?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### More in Progress
+
+**Learning through building**
+
+A growing collection of experiments, coding practice, and projects as I explore software development.
+
+[Explore All Repositories](https://github.com/Sakshi-Ag111?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Ag111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090B16&title_color=B995FF&icon_color=B995FF&text_color=D8D3E8" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Ag111&layout=compact&theme=tokyonight&hide_border=true&bg_color=090B16&title_color=B995FF&text_color=D8D3E8" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sakshi-Ag111&theme=tokyonight&hide_border=true&background=090B16&ring=B995FF&fire=FF8EAD&currStreakLabel=B995FF" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## Contribution Garden
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakshi-Ag111/Sakshi-Ag111/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakshi-Ag111/Sakshi-Ag111/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sakshi-Ag111/Sakshi-Ag111/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with precision &bull; Feel free to reach out for collaborations or project discussions</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:9B72CF,50:33205B,100:090B16&section=footer" width="100%" alt="Purple footer"/>
+
+*Building, learning, and improving — one commit at a time.*
+
 </div>
